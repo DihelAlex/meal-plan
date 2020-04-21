@@ -1,0 +1,95 @@
+body {
+overflow-x: hidden;
+background-color: #1f212e;
+text-align: center;
+
+}
+h1, h3, p {
+  font-family: "Montserrat", sans-serif;
+  color:white;
+}
+ h4, h5, h2 {
+   font-family: "Montserrat", sans-serif;
+color:  #1ca0f2;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid grey;
+}
+
+#Subject {
+  background-color: #1f212e;
+  margin-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#Plans {
+  margin-top: 7%;
+  background-color: #1f212e;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.images {
+  position: absolute;
+  width: 100%;
+}
+.card {
+  margin: 5%;
+  background-color: #252a41!important;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.card-header{
+  color: white;
+}
+.list-group-item {
+  background-color: #8b97c6;
+  color: #1f212e;
+}
+#days7 {
+  padding: 10%;
+}
+#Titlebreak {
+  padding-top: 10%;
+  padding-bottom: 5%;
+  background-color: #1f212e;
+}
+#Breakcardss {
+  padding-top: 5%;
+  background-color: white;
+  padding-left: 15%;
+  padding-right: 10%;
+  background-image: linear-gradient(to bottom, #1f212e, #1ca0f2, white );
+}
+#Breakcardsb {
+  padding-top: 5%;
+  background-color: white;
+  padding-left: 15%;
+  padding-right: 10%;
+  background-image: linear-gradient(to bottom, #1f212e, #1ca0f2, white );
+}
+#Breakcardsa {
+  padding-top: 5%;
+  background-color: white;
+  padding-left: 15%;
+  padding-right: 10%;
+  background-image: linear-gradient(to bottom, #1f212e, #1ca0f2, white);
+}
+#Breakcards {
+  padding-top: 5%;
+  background-color: white;
+  padding-left: 15%;
+  padding-right: 10%;
+  background-image: linear-gradient(to bottom, #1f212e, #1ca0f2, white);
+
+}
+.card-group {
+  padding-top: 5%;
+}
+.headerplan {
+  padding-top: 3%;
+  font-size: 4rem;
+}
